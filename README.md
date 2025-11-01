@@ -165,12 +165,6 @@ PRs and feedback are welcome! Feel free to fork, contribute, or improve upon thi
 
 ---
 
-## 📜 License
-
-MIT License. See LICENSE for details.
-
----
-
 ## About Me
 
 I'm Ongun Akay, a Senior Full-Stack Developer with expertise in JavaScript, React, Node.js, and modern DevOps practices.
